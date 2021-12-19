@@ -1,0 +1,10 @@
+body {
+  padding: 20px;
+  background: #e6f2ff;
+}
+
+input,
+button {
+  font-size: 60px;
+  font-family: "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+}
